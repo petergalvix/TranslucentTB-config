@@ -21,7 +21,7 @@ Designed for users who seek a clean, immersive, and slightly surreal desktop exp
 2. Copy the `settings.js` file to:
 **%LOCALAPPDATA%\TranslucentTB\config.json**
 3. Right-click the TranslucentTB tray icon and press **Exit**.
-4. Now re-open TranslucenTB
+4. Now re-open **TranslucenTB**
 5. Enjoy!
 
 ---
