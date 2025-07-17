@@ -18,7 +18,7 @@ Designed for users who seek a clean, immersive, and slightly surreal desktop exp
 ## 📁 Installation
 
 1. Download or clone this repository.
-2. Copy the `settings.json` file to:
+2. Copy the `settings.js` file to:
 **%LOCALAPPDATA%\TranslucentTB\config.json**
 3. Right-click the TranslucentTB tray icon and press **Exit**.
 4. Now re-open TranslucenTB
